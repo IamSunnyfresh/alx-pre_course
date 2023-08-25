@@ -1,5 +1,2 @@
-
-bash/school
-bash/school
 #!bin/bash
-echo "School"
+echo "The school is open!"
